@@ -1,0 +1,31 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/home/brian/frosty-flake-clone/frosty-flake-clone.sch</h1>
+    <p>Wed 04 Mar 2020 10:37:34 PM EST</p>
+    <p>Eeschema 5.1.5</p>
+    <p><b>Component Count:</b>19</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>C1</td><td>1</td><td>1uF</td><td>SparkFun-Capacitors:1.0UF-0805-25V-10%</td><td>0805</td><td>1uF ceramic capacitors A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.</td><td></td></tr>
+    <tr><td>FB1, FB2</td><td>2</td><td>Ferrite_Bead</td><td>Device:Ferrite_Bead</td><td>Capacitors:0603</td><td>Ferrite bead</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>AVR-ISP-6</td><td>Connector:AVR-ISP-6</td><td>Connectors:2X3</td><td>Atmel 6-pin ISP connector</td><td></td></tr>
+    <tr><td>J2, J3</td><td>2</td><td>Conn_02x10_Odd_Even</td><td>Connector_Generic:Conn_02x10_Odd_Even</td><td>Connector_PinHeader_2.00mm:PinHeader_2x10_P2.00mm_Vertical</td><td>Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>R1, R2</td><td>2</td><td>220</td><td>SparkFun-Resistors:RESISTOR0603</td><td>0603</td><td>Generic Resistor Package</td><td></td></tr>
+    <tr><td>R3, R4</td><td>2</td><td>15k</td><td>SparkFun-Resistors:RESISTOR0603</td><td>0603</td><td>Generic Resistor Package</td><td></td></tr>
+    <tr><td>RN1, RN2</td><td>2</td><td>8x 1k</td><td>Device:R_Pack08</td><td>Resistor_SMD:R_Array_Convex_8x0602</td><td>8 resistor network, parallel topology, DIP package</td><td></td></tr>
+    <tr><td>S1</td><td>1</td><td>B3U-1000P</td><td>dk_Tactile-Switches:B3U-1000P</td><td>digikey-footprints:Switch_Tactile_SMD_B3U-1000P</td><td>SWITCH TACTILE SPST-NO 0.05A 12V</td><td></td></tr>
+    <tr><td>TVS1</td><td>1</td><td>SN65220DBVR</td><td>dk_TVS-Mixed-Technology:SN65220DBVR</td><td>digikey-footprints:SOT-23-6</td><td>IC SINGLE USB PORT TVS SOT-23-6</td><td></td></tr>
+    <tr><td>U1</td><td>1</td><td>ATmega32U2-AU</td><td>MCU_Microchip_ATmega:ATmega32U2-AU</td><td>Package_QFP:TQFP-32_7x7mm_P0.8mm</td><td>16MHz, 32kB Flash, 1kB SRAM, 1kB EEPROM, TQFP-32</td><td></td></tr>
+    <tr><td>U2, U3, U4</td><td>3</td><td>SN74HC138</td><td>brian-custom:SN74HC138</td><td>Silicon-Standard:TSSOP16</td><td></td><td></td></tr>
+    <tr><td>Y1</td><td>1</td><td>RESONATOR-16MHZSMD_3.2X1.3</td><td>SparkFun-Clocks:RESONATOR-16MHZSMD_3.2X1.3</td><td>RESONATOR-SMD-3.2X1.3</td><td>16MHz Resonator <a href="http://www.digikey.com/product-detail/en/murata-electronics-north-america/CSTCE16M0V53-R0/490-1198-1-ND/584635">Digikey Example</a> <ul><li>Frequency: 16MHz</li><li>Frequency Stability: &plusmn;0.3%</li><li>Frequency Tolerance: &plusmn;0.5%</li><li>Capacitance: 15pF</li></ul> SparkFun Products <ul><li><a href= https://www.sparkfun.com/products/13712 >SparkFun OpenLog</a></li><li><a href= https://www.sparkfun.com/products/12923 >SparkFun MicroView - OLED Arduino Module</a></li></ul></td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    
